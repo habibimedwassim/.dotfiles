@@ -1,0 +1,12 @@
+import = ["/home/wassim/.dotfiles/alacritty/themes/gruvbox-dark.toml"]
+
+[window]
+opacity = 1
+padding = {x = 5, y = 5}
+[cursor]
+style = "Beam"
+
+[font]
+normal = {family = "JetBrainsMono Nerd Font", style = "Regular"}
+size = 10
+
